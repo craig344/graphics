@@ -1,0 +1,4 @@
+﻿  GLApp2.cpp
+c:\users\craig\desktop\glapp2\glapp2\glapp2.cpp(106): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\craig\desktop\glapp2\glapp2\glapp2.cpp(107): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  GLApp2.vcxproj -> C:\Users\craig\Desktop\GLApp2\Debug\GLApp2.exe
