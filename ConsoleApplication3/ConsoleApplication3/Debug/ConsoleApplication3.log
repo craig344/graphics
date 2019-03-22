@@ -1,0 +1,105 @@
+﻿  ConsoleApplication3.cpp
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(24): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(25): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(35): error C2065: 'GL_COLOR_BUFFER_BIT': undeclared identifier
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(35): error C2065: 'GL_DEPTH_BUFFER_BIT': undeclared identifier
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(35): error C3861: 'glClear': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(38): error C3861: 'glLoadIdentity': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(45): error C3861: 'glRotatef': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(46): error C3861: 'glRotatef': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(55): error C2065: 'GL_POLYGON': undeclared identifier
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(55): error C3861: 'glBegin': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(57): error C3861: 'glColor3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(58): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(59): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(60): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(61): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(63): error C3861: 'glEnd': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(66): error C2065: 'GL_POLYGON': undeclared identifier
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(66): error C3861: 'glBegin': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(67): error C3861: 'glColor3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(68): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(69): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(70): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(71): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(72): error C3861: 'glEnd': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(75): error C2065: 'GL_POLYGON': undeclared identifier
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(75): error C3861: 'glBegin': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(76): error C3861: 'glColor3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(77): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(78): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(79): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(80): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(81): error C3861: 'glEnd': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(84): error C2065: 'GL_POLYGON': undeclared identifier
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(84): error C3861: 'glBegin': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(85): error C3861: 'glColor3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(86): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(87): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(88): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(89): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(90): error C3861: 'glEnd': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(93): error C2065: 'GL_POLYGON': undeclared identifier
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(93): error C3861: 'glBegin': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(94): error C3861: 'glColor3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(95): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(96): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(97): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(98): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(99): error C3861: 'glEnd': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(102): error C2065: 'GL_POLYGON': undeclared identifier
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(102): error C3861: 'glBegin': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(103): error C3861: 'glColor3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(104): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(105): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(106): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(107): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(108): error C3861: 'glEnd': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(114): error C2065: 'GL_POLYGON': undeclared identifier
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(114): error C3861: 'glBegin': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(116): error C3861: 'glColor3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(117): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(118): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(119): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(120): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(122): error C3861: 'glEnd': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(125): error C2065: 'GL_POLYGON': undeclared identifier
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(125): error C3861: 'glBegin': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(126): error C3861: 'glColor3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(127): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(128): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(129): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(130): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(131): error C3861: 'glEnd': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(134): error C2065: 'GL_POLYGON': undeclared identifier
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(134): error C3861: 'glBegin': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(135): error C3861: 'glColor3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(136): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(137): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(138): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(139): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(140): error C3861: 'glEnd': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(143): error C2065: 'GL_POLYGON': undeclared identifier
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(143): error C3861: 'glBegin': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(144): error C3861: 'glColor3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(145): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(146): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(147): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(148): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(149): error C3861: 'glEnd': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(152): error C2065: 'GL_POLYGON': undeclared identifier
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(152): error C3861: 'glBegin': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(153): error C3861: 'glColor3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(154): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(155): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(156): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(157): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(158): error C3861: 'glEnd': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(161): error C2065: 'GL_POLYGON': undeclared identifier
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(161): error C3861: 'glBegin': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(162): error C3861: 'glColor3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(163): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(164): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(165): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(166): error C3861: 'glVertex3f': identifier not found
+c:\users\craig\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(166): fatal error C1003: error count exceeds 100; stopping compilation
